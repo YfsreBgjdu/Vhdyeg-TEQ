@@ -1,11 +1,11 @@
 {
-    "name": "AIRay-vless",
+    "name": "Vhdyeg-TEQ",
     "description": "Deploy AIray VLESS on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "b4821af5-19e6-47e0-8033-33613a9dad14"
+            "value": "298f1d14-46d6-4b91-83ec-317a66963e74"
         },
         "WSPATH": {
             "description": "WebSocket Path",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/Hardbroke/AI-heroku-vless",
+    "repository": "https://github.com/YfsreBgjdu/Vhdyeg-TEQ",
     "stack": "container"
 }
